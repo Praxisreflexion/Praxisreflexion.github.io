@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: Praxisreflexion
+  url: /praxis
+  excerpt: TODO
+  image:
+
+- title: Coaching
+  url: /coaching
+  excerpt: TODO
+  image:
+
+- title: Trainings
+  url: /trainings
+  excerpt: TODO
+  image:
+
+- title: Referenzen
+  url: /references
+  excerpt: TODO
+  image:
+
+- title: About
+  url: /about
+  excerpt: Things about me
   image:
