@@ -12,35 +12,30 @@ title: ""
 </div>
 -->
 <!-- /.tiles -->
-
-
-<div class="tile">
-  <h2 class="post-title">Ich biete:</h2>
-  <p class="post-excerpt">
-	<ul>
-		<li>Business-Coaching</li>
-		<li>Persönliches Coaching</li>
-		<li>Coaching für Führungskräfte</li>
-		<li>Veränderungsberatung</li>
-		<li>Diversity-Coaching</li>
-		<li>Gender-Coaching</li>
-	</ul>
-  </p>
-</div>
-
-<div class="tile">
-  <h2 class="post-title">Meine Methoden</h2>
-  <p class="post-excerpt">Diese methodischen Schwerpunkte verknüpfe ich je nach Zielgruppe und Thema. Ich habe also beispielsweise Erfahrung mit Bildungsarbeit im Kontext von Konfliktbewältigung.</p>
-</div>
-
 <div class="tile">
   <h2 class="post-title">Praxisreflexion</h2>
   <p class="post-excerpt">Praxisreflexion richtet sich an Menschen oder Arbeitsgruppen, Teams oder Interessengruppen, die ihre berufliche Situation reflektieren wollen und/oder bestimmte Verhältnisse oder Arbeitssituationen verbessern wollen.
 </p>
+<a href="/praxis" class="btn">mehr</a>
 </div>
+
 <div class="tile">
   <h2 class="post-title">Coaching</h2>
   <p class="post-excerpt">Coaching richtet sich an Menschen, die ihre Arbeits-/und Lebenssituation verbessern wollen.
 Je nach Bedarf biete ich langfristige Coaching-Prozesse oder kurze, themenfokussierte Termine an.
 </p>
+<a href="/coaching" class="btn">mehr</a>
+</div>
+
+<div class="tile">
+  <h2 class="post-title">Trainings</h2>
+  <p class="post-excerpt">Lorem ipsum dolor sit amet, consectetur adipisici elit, Lorem ipsum dolor sit amet, consectetur adipisici elit</p>
+<a href="/trainings" class="btn">mehr</a>
+</div>
+
+<div class="tile">
+  <h2 class="post-title">Kontakt</h2>
+  <p class="post-excerpt">
+	Email
+  </p>
 </div>
