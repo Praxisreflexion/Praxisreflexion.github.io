@@ -12,6 +12,7 @@ title: ""
 </div>
 -->
 <!-- /.tiles -->
+
 <div class="tile">
   <h2 class="post-title">Praxisreflexion</h2>
   <p class="post-excerpt">Praxisreflexion richtet sich an Menschen oder Arbeitsgruppen, Teams oder Interessengruppen, die ihre berufliche Situation reflektieren wollen und/oder bestimmte Verhältnisse oder Arbeitssituationen verbessern wollen.

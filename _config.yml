@@ -5,8 +5,8 @@ description: "Danna Bader – Coachin, Trainerin und Beraterin."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-#url: http://phd.mr56k.info/praxisreflexion-berlin.de
-url:
+languages: ["en", "de"]
+url: http://phd.mr56k.info/praxisreflexion-berlin.de
 feed:
   path: atom.xml
 
