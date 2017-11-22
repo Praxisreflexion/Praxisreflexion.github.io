@@ -1,1 +1,2 @@
 - <http://www.klaasnotfound.com/2017/02/16/proper-multilingual-site-with-github-pages-and-jekyll/>
+- <http://kinderundzimmer.de>

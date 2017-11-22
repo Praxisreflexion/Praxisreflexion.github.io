@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/trainings</loc>
+<loc>/about</loc>
 </url>
 <url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/about</loc>
+<loc>/coaching</loc>
 </url>
 <url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/coaching</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/</loc>
+<loc>/praxisreflexion</loc>
 </url>
 <url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/praxis</loc>
-</url>
-<url>
-<loc>http://phd.mr56k.info/praxisreflexion-berlin.de/de/referenzen</loc>
+<loc>/workshops</loc>
 </url>
 </urlset>
